@@ -2,12 +2,9 @@
 Final Project of Ironhack Data Analytics Bootcamp
 
 
-This project contains four traffic sign image folder and python, csv and models include folder:
-  Examples: Images for using in the model
+This project contains python, csv and models files in the 'files' folder:
+
   Files: Notebooks, models and python file to open and run traffic classifier
-  images_test: Images for testing the neural network model(traffic_classifier.h5)
-  signs from the street: Images directly taken from street by me.
-  Training: Images within the 149 groups to train the model(my_model.h5)
  
 1) Images taken from Natinaal Dataportal Wegveerker and the classifier built for Dutch roads. Here is the API url "https://docs.ndw.nu/api/trafficsigns/nl/index.html"
 After getting the 1858922 rows of dataset to pull the images some data cleaning is taken care of in "traffic_signs_api_ and_dataframes.ipynb" file.
